@@ -17,7 +17,7 @@ changeFigure:none -left;
 :丽娘…… -fontSize=default;
 :杜丽娘…… -fontSize=default;
 changeBg:empty.PNG -transform={"alpha":1,"position":{"x":0,"y":0},"scale":{"x":1,"y":1},"rotation":0,"blur":0,"oldFilm":1,"dotFilm":0,"reflectionFilm":0,"glitchFilm":0,"rgbFilm":0,"godrayFilm":0};
-机械音:再次自我介绍一下，我是由海若市生命科学研究院自主研发，牡丹亭意识中枢提供服务支持的智能陪护型机器人，生产编号LV14PARADISE， -fontSize=default;
+机械音:再次自我介绍一下，我是由海若市生命科学研究院自主研发，牡丹亭意识中枢提供服务支持的智能陪护型机器人，生产编号LV14-PARADISE， -fontSize=default;
 现在我将根据载入的人格模组，模拟已故科学家杜丽娘博士的生前特征，并为您提供您现在以及未来所需要的服务。譬如智能化模拟学术评价…… -fontSize=default;
 女人:你告诉我，你是杜丽娘…… -fontSize=default;
 changeBg:street in town.JPG;

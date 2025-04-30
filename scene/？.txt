@@ -66,7 +66,7 @@ miniAvatar:CQMINI.png;
 我:（提高声音）是你杀了杜阑音吗？ -fontSize=default;
 miniAvatar:none;
 changeFigure:NJM.png;
-LV14:LV14PARADISE，无国界组织九重天人类文明重建委员会所属自主近程作战人形，奉命回收信息素武器「梵天」的宿主毗湿奴，即死灵法师「诃利·诃罗」。 -fontSize=default;
+LV14:LV14-PARADISE，无国界组织九重天人类文明重建委员会所属自主近程作战人形，奉命回收信息素武器「梵天」的宿主毗湿奴，即死灵法师「诃利·诃罗」。 -fontSize=default;
 常青女士，您身为委员会成员张河女士身边的好友，与诃利·诃罗事件的受害者，拥有对这一切的知情权。 -fontSize=default;
 miniAvatar:CQMINI.png;
 我:你……你是杀人犯…… -fontSize=default;
