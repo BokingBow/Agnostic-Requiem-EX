@@ -1,0 +1,92 @@
+; 初始场景，以及特效演示
+
+bgm:none;
+intro:人格模块导入成功！
+:什么玩意……？
+:正在为您加载牡丹亭意识中枢第14号意识模组「LV14-PARADISE」…… -fontSize=default;
+:这又是什么……我究竟…又掉进了谁的记忆里面？ -fontSize=medium;
+:为什么总是在这么紧张的情况下会触发这个能力啊……
+changeBg:nagoyascience.PNG -next;
+:环视四周，不知道什么材料砌成的墙壁晕染着冰冷的色泽，把这个像是实验室一样的房间称得恍若一个无机质的人造荒原，房间中央的一个女人似乎正在某台器械前摆弄着什么。
+changeFigure:万用立绘/LiuMengmei_.PNG;
+？？:后来者，你看到了吗…… -fontSize=default;
+:在叫我吗？ -fontSize=default;
+？？:这是一个…名为「科学」的旧神，还盘踞在祂那由钢筋水泥所构成的神庙之时所发生的故事。 -fontSize=default;
+祂还真的蛮厉害的，居然能在你们的这个时代安静地蛰伏这么久，你，还有你的先人之所以能够看到他人的记忆，也都是因为这股「科学」的力量仍然存在于此。 -fontSize=default;
+miniAvatar:miniscy.png;
+我:哈？我的能力不是祖传的吗，从我们祖宗尾……什么来着？等一下…… -fontSize=default;
+我……是谁……? -fontSize=default;
+miniAvatar:none;
+？？:一时想不起来是正常的，不要太过于担心。这种强度的执念，除非是九重天的那帮老大爷老大妈，像你这种小姑娘被卷进去，自然就会发生感官失能或者失忆这种事。 -fontSize=default;
+哎对了后来者，我倒是有一个问题要问问你。 -fontSize=default;
+你说信仰到底是为了谁呢……？我在想，当我启动为轰鸣的蒸汽机装上引擎的那刻，我对这位神明的信仰，应该就被一种可视化的方式给供奉出去了吧。 -fontSize=default;
+:女人自顾自地回答了她方才抛出的问题，似乎并不想给我回答的机会。 -fontSize=default;
+？？:你们的主教是只会说胡话的疯子，而我们的领袖是成天画着大饼的骗子。在历史上，他们却似乎有着相似到令人毛骨悚然的生态位。 -fontSize=default;
+好像永远，永远只会带着他们的追随者，把希望寄托给因人类的信仰而存在的神。 -fontSize=default
+不是吗？ -fontSize=default;
+神呐……你的存在到底催生了多少的悲剧。 -fontSize=default;
+miniAvatar:miniscy.png;
+我:你是谁？你在说什么东西？！ -fontSize=default;
+miniAvatar:none;
+？？:只有把你毁掉，脱离了信仰的束缚的人们，才能真正去考虑到自己真正想要什么，追求什么。 -fontSize=default;
+我要把你的信众，一个，一个剥离出这个世界，|因为我知道，他们是你在大地上那春风吹了又生的根。 -fontSize=default;
+但是，我会把他们，全部铲除掉。 -fontSize=default;
+我要让你在这个世界上永远消失。 -fontSize=default;
+别纠结我是谁了，后来者，既然你进入了这段记忆…… -fontSize=default;
+就好好的，负起你身为尾火宿人的责任，把它“吃”下去吧。 -fontSize=default;
+bgm:雪灯.mp3;
+changeFigure: -next;
+changeBg:none -next;
+setTextbox:hide;
+（机械音）:中午好，柳梦梅主任。我是基于已故脑科学家杜丽娘博士的生前记忆所构成的神经网络所生成的智能人格载入型陪护型机器人，请问有什么能我够帮到您的？ -fontSize=default -right;
+setTransition: -target=bg-main -enter= -exit=glitchFilm;
+intro:终于……到这个时候了吗。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+intro:意识模组「LV14」已经成功唤醒。是否立即激活？|确认激活。|好的，正在为您加载「LV14」的意识模组人形。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+intro:杜丽娘…… -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+changeBg:empty.PNG -next -transform={"oldFilm":1};
+changeFigure:万用立绘/BDuLiniang.PNG -right -transform={"alpha":1,"position":{"x":0,"y":0},"scale":{"x":1,"y":1},"rotation":0,"blur":0,"oldFilm":1,"dotFilm":0,"reflectionFilm":0,"glitchFilm":0,"rgbFilm":0,"godrayFilm":0} -next;
+setTextbox:on;
+changeFigure:万用立绘/LiuMengmei.PNG -left -transform={"alpha":1,"position":{"x":0,"y":0},"scale":{"x":1,"y":1},"rotation":0,"blur":0,"oldFilm":1,"dotFilm":0,"reflectionFilm":0,"glitchFilm":0,"rgbFilm":0,"godrayFilm":0} -next;
+女人:什么…….？ -fontSize=default -left;
+你不是杜丽娘吗…….？ -fontSize=default -left;
+（机械音）:再次自我介绍一下，我是由海若市生命科学研究院自主研发，牡丹亭意识中枢提供服务支持的智能陪护型机器人，生产编号LV14PARADISE。 -fontSize=default -right;
+现在我将根据载入的人格模组，扮演已故科学家杜丽娘博士并为您提供您现在以及未来所需要的服务。譬如智能化模拟学术评价…… -fontSize=default -right;
+女人:你告诉我，你是杜丽娘，我的姐姐。 -fontSize=default -left;
+（机械音）:对此我感到很十分抱歉，柳梦梅主任，我无法完成这个任务。 -fontSize=default -right;
+根据《联合政府对人工智能设计管理办法》第九十八条第四款所规定，LV14PARADISE无法剥夺并取代已故或在世的人类的身份，从而作为他们活着。 -fontSize=default -right;
+因此，我只能根据在法律层面允许的范围内，获取他们已经的公开的行为记录与记忆来模仿他们说话的口吻和模拟他们的行为逻辑。 -fontSize=default;
+女人:…… -fontSize=default -left;
+废物…… -fontSize=default -left;
+（机械音）:您的判断似乎出现了偏差。我的出厂时间为…… -fontSize=default -right;
+女人:你不是杜丽娘！ -fontSize=default;
+:我只能从模糊的视线里窥见这个装修奇怪的房间里，穿着前卫，身体覆盖着机械的女人跪在地上绝望地嘶吼着。 -fontSize=default;
+另外一个，被打扮成“杜丽娘”的机器人着蹲在地上，试图伸手扶起她。 -fontSize=default;
+:可是每一次，当“杜丽娘”将她硅胶材质的右手伸向那个无助的女人的时候，总会被女人决绝地闪开。 -fontSize=default;
+:两人不知道重复了多少次这个动作。 -fontSize=default;
+:终于，在机器人不知道第几次在不知疲倦地重复着自己伸手的动作的时候，疲惫又绝望的女人没有躲开来，而是任由机器人将那双冰冷的手搭在了她的肩上。 -fontSize=default;
+女人:PARADISE，我想这个世界上还没有人跟你说过吧。 -fontSize=default -left;
+哦，确实没有，毕竟你连开机都是不一会儿前的事。 -fontSize=default -left;
+研究所那帮傻逼收集来的资料所呈现的“杜丽娘”，也就是你，仅仅就是她生前想要向你们展现出来的想要你们看到的那一面罢了。 -fontSize=default -left;
+我应该看到的，从来都不是这个在研讨会的录像上就能看见的，那个所有人都能看见的，温柔大方的杜丽娘。你们根本没有办法模拟出一个私下截然不同的，生动的她。 -fontSize=default -left;
+（机械音）:很抱歉，我的人格样本上基于杜丽娘博士生前的讲座与学术报告等公开场合的录像而形成的，我无法做到精准还原出她个人生活时的性格。 -fontSize=default -right;
+女人:（冷哼）至少她不会跟你一样，说她做不到什么事。 -fontSize=default -left;
+（机械音）:感谢您的指正，柳梦梅主任。您为我提供了一条重要的信息，我会在允许的范围内努力模拟出杜丽娘博士生前具有的性格的。 -fontSize=default -right;
+女人:……不要去刻意模仿她，挺别扭的。还有，以后不准喊我柳梦梅主任。喊我柳梦梅就可以。直接喊我的名字，这个是我的要求。 -fontSize=default;
+（机械音）:了解。 -fontSize=default;
+女人:最后，你要记住，你无论来未来拥有了多少杜丽娘的记忆，你都不会是她，也别想着去成为她。 -fontSize=default;
+不管装载了谁的记忆，我劝你不都要去想着把自己当成那段记忆的主人。 -fontSize=default;
+这个世界上，能够证明你是你自己的，只有LV14-PARADISE——你的序列号这么一个东西。 -fontSize=default;
+这个才是你永远的名字。 -fontSize=default;
+:名为柳梦梅的女人侧过身去，凝望着挂在房间角落的一张画像。这个动作让她身后堆成山的文件更加地摇摇欲坠了。 -fontSize=default;
+:一张被裱在胡桃木相框里的，泛了黄的信被文件堆推得离我更近了些。 -fontSize=default;
+:刚刚听这两个不知道来自于的什么时代的女人聊了一堆我从未听过的名词，什么人工智能，什么脑科学之类的东西，我才意识到—— -fontSize=default;
+:——我居然能够侵入未来人的记忆了。那看来到以后学理科真的会比当什么巫祝有出息得多啊。 -fontSize=default;
+:记忆空间随着时间的流逝扭曲了起来，愈发不稳定。忽然想在离开这里之前看一看那封信上的内容。于是我便试着走近去看一眼。 -fontSize=default;
+changeBg: -next;
+: -notend -fontSize=default;
+intro:临川希望小学1988级（2）班 柳梦梅小朋友 收|小梅，不知道你最近还好吗？姐姐最近有一件很开心的事想要和你分享——前几天我博士毕业啦！|姐姐很想你，所以迫不及待地，想要和你分享这份喜悦，但可惜只有暑假的时候才能回来看你。|学校的课题组送了每一位同学一份毕业礼物，是一本诗集，我想它可能能够给予你和我更多的力量，所以我也想让你看看它！你应该也随着信件收到它了吧？|我把最喜欢那首诗抄在了下面。希望，我可以像是下面的这首诗所说的一样…… 永远伴你同行。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=typingEffect -delayTime=5000;
+intro:「我永远在沙岸上行走，」|「在沙土和泡沫的中间，」|「高潮会抹去我的脚印，」|「风也会把泡沫吹走。」|「但是海洋和沙岸」|「却将永远存在。」||你最爱的姐姐 杜丽娘 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=typingEffect -delayTime=5000;
+bgm:none;
+changeFigure: -right -next;
+changeFigure: -left -next;
+changeScene:office.txt

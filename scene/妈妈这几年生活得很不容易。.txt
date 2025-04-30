@@ -1,0 +1,7 @@
+changeBg:forest in morning.png;
+changeFigure:万用立绘/DIE.PNG -next;
+父亲:…… -fontSize=default;
+…… -fontSize=default;
+我承认，她和你是我一辈子都没法补偿的错误。 -fontSize=default;
+changeFigure:none;
+changeScene:审讯后2.txt

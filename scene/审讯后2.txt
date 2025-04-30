@@ -1,0 +1,21 @@
+changeBg:forest in morning.png;
+choose:你爱过妈妈和我吗？:选择场景文件;
+changeFigure:万用立绘/DIE.PNG;
+父亲:我不配说这种话。 -fontSize=default;
+:男人将头迅速地转过去，我也无从得知他此时的表情究竟是真情流露化作的后悔还是象征性地表达了歉意后如释重负的喜悦。 -fontSize=default;
+:我也没兴趣去想了。 -fontSize=default;
+miniAvatar:miniscy.png;
+我:太晚了…… -fontSize=default;
+miniAvatar:none;
+父亲:什么？ -fontSize=default;
+miniAvatar:miniscy.png;
+我:没什么。 -fontSize=default;
+miniAvatar:none;
+changeFigure:none;
+:太晚太晚了，你的道歉、后悔来的实在是太晚了。 -fontSize=default;
+:说真的，这是我十七年以来，第一次看见高大威严的你如此卑微且疲倦地站在我的面前。 -fontSize=default;
+:刹那之间，我的心里甚至还有一丝愧疚，觉得自己似乎把如海，这个曾在我的世界里最具有威信的人拉到了与我平级的处境，是我的错。 -fontSize=default;
+:他现如今吐露出的懦弱与在母亲面前表现出的强悍态度也令我感慨万千。 -fontSize=default;
+:但是我也没空去想到底谁错了这种问题了。接下来缠礼的伤口要怎么处理对我而言才是最关键的。 -fontSize=default;
+:可不能留疤了，这下谁都知道我是尾火家的罪人了。 -fontSize=default;
+changeScene:青云山顶.txt

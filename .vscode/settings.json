@@ -1,0 +1,8 @@
+{
+    "editor.rulers": [127],  // 仅在此文件夹中生效
+    "editor.fontFamily": "Fira Code, 'Sarasa Mono SC'",
+    "editor.fontLigatures": false,
+    "workbench.colorCustomizations": {
+      "editorRuler.foreground": "#ff000080"  // 红色半透明（格式：#RRGGBBAA）
+    }
+  }

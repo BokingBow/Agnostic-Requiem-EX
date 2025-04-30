@@ -1,0 +1,5 @@
+changeBg:cornerC.jpg;
+:面前是一段看起来不太好走的路。 -fontSize=default;
+张河:这里怎么也堆了一大堆垃圾？ -fontSize=default;
+杜阑音:先去别的路看看吧。 -fontSize=default;
+choose:去洗手台:洗手台.txt;

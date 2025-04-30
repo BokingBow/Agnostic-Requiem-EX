@@ -1,0 +1,18 @@
+changeBg:canteen.jpg;
+:我们到了那个食堂。 -fontSize=default;
+:放眼望去，这座建筑真的被废弃得非常匆忙。入口仅仅是用那个年久失修的生锈铁门草草拦了一下，并没有上锁。 -fontSize=default;
+changeBg:ruins.jpg;
+往两边推一下就打开了，只是手上沾满了铁锈味还一时半会儿散不去，让人有些讨厌。 -fontSize=default;
+changeFigure:伟大的张河女士/ZH-AHO.png;
+张河:这咋整得这么牛？一下子桌子椅子就给全撤掉了？ -fontSize=default;
+changeFigure:none;
+:顺着张河的惊呼，我发现食堂的桌椅已经被部搬走了，废弃的杂物散落一地，丝毫没有一丝人气。 -fontSize=default;
+:就好像荒废了许久似的。 -fontSize=default;
+changeFigure:伟大的张河女士/ZH-ANGRY.png;
+张河:很怪。 -fontSize=default;
+我说气场很奇怪。 -fontSize=default;
+杜阑音，尚晨月，牵住我的手，先往里面走。 -fontSize=default;
+我需要找一个合适的地方。 -fontSize=default;
+changeFigure:none;
+:先去哪呢？ -fontSize=default;
+choose:食堂窗口处:食堂窗口处.txt;

@@ -1,0 +1,17 @@
+杜阑音:埃尔纳尼…… -fontSize=default;
+埃尔纳尼…… -fontSize=default;
+不要丢掉我…… -fontSize=default;
+我们……一起逃走吧…… -fontSize=default;
+不要再管他们了！！！ -fontSize=large;
+:谁在说话？ -fontSize=default;
+:转过身听了一下，是杜阑音的梦呓。 -fontSize=default;
+杜阑音:少……不，小姐。 -fontSize=default;
+埃尔纳尼小姐，我永远……永远不会背叛您！！ -fontSize=default;
+我只奢求着……您能够给予我一个家。 -fontSize=default;
+没事的，没事！……埃尔纳尼。 -fontSize=default;
+不要愧疚……我还在呢。 -fontSize=default;
+:埃尔纳尼……这个名字像是外国人的名字。 -fontSize=default;
+:是杜阑音的故人吗？ -fontSize=default;
+:听起来，阑音姐以前在国外呆过呢。 -fontSize=default;
+:算了，不去管这些了。 -fontSize=default;
+changeScene:morning of newborn.txt
