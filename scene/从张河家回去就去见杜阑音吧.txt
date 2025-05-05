@@ -25,12 +25,12 @@ changeFigure:杜阑音/DLY-LAUGH.png -right;
 changeFigure: -right;
 changeFigure: -left;
 :我曾经因为自己可以轻易地断掉所有与人连接的纽带，在这个世界独自地活着， -fontSize=default;
-:我好像在这段时间内才开始逐渐意思到自己对他人，对外界仍是抱有牵挂与依赖的。 -fontSize=default;
+:我好像在这段时间内才开始逐渐意识到自己对他人，对外界仍是抱有牵挂与依赖的。 -fontSize=default;
 :曾经，我把常青当成一个依赖着“稳重的自己”的人。但是在遇到了杜阑音之后，我才开始，第一次全身心地去依赖，去信任另一个人。 -fontSize=default;
 :在此之前，去尽情地当一个被大人呵护的弱者可能性，在我那鸡飞狗跳的孩提时代就被堵死了。 -fontSize=default;
 :那去当一个呵护弱者的“小大人”呢？若是说与常青一起的那些经历的话，那当然是有过。 -fontSize=default;
 :以前的我从不敢放下如此多的戒备，因为我怕我如果和常青一样烂漫下去的话，我们二人都会被外界的流言与目光戳得遍体鳞伤。 -fontSize=default;
-所以，即使常青足够令我去信任，我也还是要给自己的套上一层厚厚的铠甲。 -fontSize=default;
+:所以，即使常青足够令我去信任，我也还是要给自己的套上一层厚厚的铠甲。 -fontSize=default;
 :只有先保护好自己，这样才能保护好她的那一份纯真。 -fontSize=default;
 :那现在我要做的事，就是最后一次，让她带好她的那份单纯，干干净净地离开这个污浊不堪的世界。 -fontSize=default;
 changeScene:回县城吧！！.txt
