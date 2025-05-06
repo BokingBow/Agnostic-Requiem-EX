@@ -90,5 +90,5 @@ changeFigure:杜阑音/DLY-QUESTIONING.png;
 杜阑音:你…… -fontSize=default;
 changeFigure:none;
 :杜阑音听完，想说什么，被张河拦了下来。 -fontSize=default;
-张河示意我们先过去。 -fontSize=default;
+:张河示意我们先过去。 -fontSize=default;
 changeScene:食堂.txt

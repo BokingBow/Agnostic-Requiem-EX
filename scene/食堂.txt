@@ -2,7 +2,7 @@ changeBg:canteen.jpg;
 :我们到了那个食堂。 -fontSize=default;
 :放眼望去，这座建筑真的被废弃得非常匆忙。入口仅仅是用那个年久失修的生锈铁门草草拦了一下，并没有上锁。 -fontSize=default;
 changeBg:ruins.jpg;
-往两边推一下就打开了，只是手上沾满了铁锈味还一时半会儿散不去，让人有些讨厌。 -fontSize=default;
+:往两边推一下就打开了，只是手上沾满了铁锈味还一时半会儿散不去，让人有些讨厌。 -fontSize=default;
 changeFigure:伟大的张河女士/ZH-AHO.png;
 张河:这咋整得这么牛？一下子桌子椅子就给全撤掉了？ -fontSize=default;
 changeFigure:none;
