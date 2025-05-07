@@ -3,8 +3,8 @@ intro:这就是你的选择吗？|欢迎你……|——在那个世界，曾被
 intro:现在都想起来了吗？|这层意识曾在比你现在所处的世界更低的维度，所依附的身体，从来都不叫尚晨月。|她曾经被称作「常青」。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=5000;
 intro:很可惜，这具身体由于学校与家庭所赋予的压力，患上了自我认知障碍。具体表现在对过往经历的虚构与记忆的解离。|她那名为「尚晨月」的好友拥有着她所羡慕的，和睦的家庭关系与宽裕的经济条件。|她用尚晨月的现在为自己在努力地学习之后可能迎来的未来构造了畅想的素材。具体表现每天在宿舍熄灯之后，还会趴在自己的小床上幻想自己拥有尚晨月的一切，像是和蔼的父母、轻松的学习氛围和令人安心的存款…… -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=5000;
 intro:甚至是拥有尚晨月本人。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=5000;
-intro:在第698次于脑内预演着身为「尚晨月」的自己可能的发展以后·，这个身体的大脑部分地形成了身为「尚晨月」的自我认知。|但是这个认知是不完整的。这具身体只相信了自己名叫「尚晨月」，却不相信自己如同尚晨月本人一样拥有一对开明的父母，拥有像一个寻常的富裕人家的孩子那样能够为了自己的梦想飞蛾扑火的资本。|环境会在一定程度上塑造一个人。众所周知，拥有在主流价值观下的健全人格且乐观开朗的尚晨月，不可能有拥有一个缺乏着亲情的家庭与缺失了友情的成长环境。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=5000;
-intro:理论上，这种违和感应会进一步加剧了这具身体的行为的异常。|但是这具身体，却通过了一种巧妙的方式使得这个全新的自我认知与过往不匹配的经历共存了下来。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=5000;
+intro:在第698次于脑内预演着身为「尚晨月」的自己可能的发展以后，这个身体的大脑部分地形成了身为「尚晨月」的自我认知。|但是这个认知是不完整的。这具身体只相信了自己名叫「尚晨月」，却不相信自己如同尚晨月本人一样拥有一对开明的父母，拥有像一个寻常的富裕人家的孩子那样能够为了自己的梦想飞蛾扑火的资本。|环境会在一定程度上塑造一个人。众所周知，拥有在主流价值观下的健全人格且乐观开朗的尚晨月，不可能有拥有一个缺乏着亲情的家庭与缺失了友情的成长环境。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=5000;
+intro:理论上，这种违和感应会进一步加剧这具身体的行为的异常。|但是这具身体，却通过一种巧妙的方式使得这个全新的自我认知与过往不匹配的经历共存了下来。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=5000;
 intro:如果用羡慕，再到嫉妒，最后形成恨的这种思维模式，去解析这具身体所出现的这种情况，是完全行不通的。|试着换一种思路吧。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=5000;
 intro:比如控制欲？ -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=5000;
 intro:「常青」对「尚晨月」施加了太多的幻想了。|比如像是希望她能够穿上自己在杂志上看见的漂亮衣服，或是希望她摆出会让自己唤起性欲的表情这样的想法。|不过「常青」是一个好孩子。因为她知道「尚晨月」不一定会乐意去做这些事，所以她就不会去因此麻烦尚晨月，把这些想法告诉她。|就像报考高中的时候不想让妈妈太累，不想让家里的财政压力更大，所以没有选择交县里的重点高中的择校费，而是去了一所非盈利性的民办高中一样。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=5000;
@@ -16,4 +16,9 @@ intro:最后，我有一个问题想要问「你」。|作为观众，再一次�
 intro:啊？想知道「观众」是什么样子的？|好吧。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=5000;
 intro:那就好好看屏幕吧，刚刚特地用黑色背景就是怕你看不清自己的脸的。|除非你大半夜黑灯瞎火不开灯就在这里打游戏。|不过，要是现在反悔了，又想去做「演员」的话……|……希望你刚才真的按我说的做了，在刚刚的选项那里存了档。|只有这一个办法了。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=5000;
 intro:毕竟，俯瞰一个低维度的故事，随意地去观测它的任意一个时间点，以此回味，甚至来干涉它的走向……|……是处在高维度的我们，残忍的特权呀。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=5000;
+intro:………………………………
+intro:你好。|我不是作者，这段文字并非游戏作者所写。|我只是看到作者并没有在之前说要存档，所以擅自加了一个提示的某人而已。|玩到真结局你就知道我是谁了。;
+intro:……为什么我没有藏在那个结局之后来写这些东西？;
+intro:因为没有必要。|我希望你在普通地玩完这个游戏之后，不要听我这个“盗版制作者”的絮絮叨叨，而是去关注作者本人。|当然，那只是对于普通的人来说。|你既然玩到了这个结局，那么我在这里说点我想说的让你看到了也是合情合理的吧。;
+intro:马上这个结局就会结束了。|再说一遍吧。|希望你存了档。;
 end;

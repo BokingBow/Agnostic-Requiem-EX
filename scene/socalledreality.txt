@@ -33,5 +33,5 @@ bgm:none;
 :是升入不可知的天堂，在闻道的瞬间伴着最后一场夕阳抛下俗世的一切烦恼？ -fontSize=default;
 :还是被情丝牵绊着，从已知的神那里求到有限的智识，在凡俗的喜怒哀乐中过完平凡的一生？ -fontSize=default;
 :…… -fontSize=default;
-:所以，在这场闹剧中，你要选择成为观众还是演员？ -fontSize=large;
+建议在此处存档:所以，在这场闹剧中，你要选择成为观众还是演员？ -fontSize=large;
 choose:观众:socalledhappyending.txt|演员:socalledtragedy.txt;
