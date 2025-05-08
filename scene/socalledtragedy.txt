@@ -5,8 +5,8 @@
 :我不需要飘渺的真理，我不想把那全知全能的我隔绝进一个永远无法触碰到「她们」的真空之中。 -fontSize=default;
 :我只想对待好身边的每一个人。 -fontSize=default;
 :这就是我要践行的「道」。 -fontSize=default;
-      :那就去……做你该做的事情吧。 -fontSize=default;
-……常青。 -fontSize=default;
+:那就去……做你该做的事情吧。 -fontSize=default;
+:……常青。 -fontSize=default;
 :…… -fontSize=default;
 changeBg:ruins.jpg;
 :伴着一阵冲击，我试着睁开了眼睛。 -fontSize=default;

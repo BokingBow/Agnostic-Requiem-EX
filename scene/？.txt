@@ -81,7 +81,7 @@ miniAvatar:none;
 :情绪崩溃到了极致，我几乎是用尽了自己的全力才喊出了这句话。 -fontSize=default;
 LV14:常青女士，我能够理解您现在的心情。但是失去生命机能的身体是无法重新运转的。 -fontSize=default;
 您可以等待该身体送往位于尼莫点的巴别塔，待其体内意识提取结束之后，将会借助「牡丹亭集体意识中枢」重新投射到人间的其他个体上。 -fontSize=default;
-:用相对容易理解的方式来讲，就是转世投胎。 -fontSize=default;
+用相对容易理解的方式来讲，就是转世投胎。 -fontSize=default;
 miniAvatar:CQMINI.png;
 我:我只要她。 -fontSize=default;
 我只要杜阑音！！ -fontSize=large;
