@@ -1,9 +1,9 @@
-changeBg:forest in morning.png;
+changeBg:forest in morning.png -next;
 changeFigure:万用立绘/DIE.PNG -next;
 父亲:…… -fontSize=default;
 对不起。这几年来，我确实很不负责。 -fontSize=default;
 ……对不起。 -fontSize=default;
-changeFigure:none;
+changeFigure:none -next;
 :只会对不起有什么用……? -fontSize=default;
 :你要是真有愧疚就做出点实际的来啊…… -fontSize=default;
 changeScene:审讯后2.txt

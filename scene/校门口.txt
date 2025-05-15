@@ -1,4 +1,4 @@
-changeBg:GATE.JPG;
+changeBg:GATE.JPG -next;
 :预料之内，我被退学了。 -fontSize=default;
 :在副校长意识到，她不必浪费她的午休时间在办公室听这两个贫穷又不幸的女人哀叹自己的命运的那一刻， -fontSize=default;
 :我们被她干脆利落地请出了办公室，直接去副校长办公室的楼下的学籍办，办理退学手续。 -fontSize=default;
@@ -13,7 +13,7 @@ changeFigure:万用立绘/nm.png -left -next;
 母亲:你要带她去哪？！ -fontSize=default;
 父亲:回青云山，审讯流程走完后就受缠礼，最后除名。 -fontSize=default;
 :他还是老样子，总是板着那一张脸，小时候想让他陪我玩的时候就是这样子。和我妈离婚的时候还是这样子。 -fontSize=default;
-:现在他的女儿触犯了族中大忌，甚至会因此失去成为祝由女的资格，他的眉目之间甚至都不会抖落出丝毫的惋惜，或是别的情绪。。     -fontSize=default;
+:现在他的女儿触犯了族中大忌，甚至会因此失去成为祝由女的资格，他的眉目之间甚至都不会抖落出丝毫的惋惜，或是别的情绪。     -fontSize=default;
 miniAvatar:miniscy.png;
 我:缠礼…… -fontSize=default;
 miniAvatar:none;

@@ -8,7 +8,7 @@ intro:人格模块导入成功！
 :为什么总是在这么紧张的情况下会触发这个能力啊……
 changeBg:nagoyascience.PNG -next;
 :环视四周，不知道什么材料砌成的墙壁晕染着冰冷的色泽，把这个像是实验室一样的房间称得恍若一个无机质的人造荒原，房间中央的一个女人似乎正在某台器械前摆弄着什么。
-changeFigure:万用立绘/LiuMengmei_.PNG;
+changeFigure:万用立绘/LiuMengmei_.PNG -next;
 ？？:后来者，你看到了吗…… -fontSize=default;
 :在叫我吗？ -fontSize=default;
 ？？:这是一个…名为「科学」的旧神，还盘踞在祂那由钢筋水泥所构成的神庙之时所发生的故事。 -fontSize=default;
@@ -35,11 +35,11 @@ miniAvatar:none;
 别纠结我是谁了，后来者，既然你进入了这段记忆…… -fontSize=default;
 就好好的，负起你身为尾火宿人的责任，把它“吃”下去吧。 -fontSize=default;
 bgm:雪灯.mp3;
-changeFigure: -next;
 changeBg:none -next;
-setTextbox:hide;
-（机械音）:中午好，柳梦梅主任。我是基于已故脑科学家杜丽娘博士的生前记忆所构成的神经网络所生成的智能人格载入型陪护型机器人，请问有什么能我够帮到您的？ -fontSize=default -right;
-setTransition: -target=bg-main -enter= -exit=glitchFilm;
+changeFigure: -next;
+setTextbox:hide -next;
+（机械音）:中午好，柳梦梅主任。我是基于已故脑科学家杜丽娘博士的生前记忆所构成的神经网络所生成的智能人格载入型陪护型机器人，请问有什么能我够帮到您的？ -notend -fontSize=default -right;
+setTransition: -target=bg-main -enter= -exit=glitchFilm -next;
 intro:终于……到这个时候了吗。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
 intro:意识模组「LV14」已经成功唤醒。是否立即激活？|确认激活。|好的，正在为您加载「LV14」的意识模组人形。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
 intro:杜丽娘…… -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
@@ -60,7 +60,7 @@ changeFigure:万用立绘/LiuMengmei.PNG -left -transform={"alpha":1,"position":
 （机械音）:您的判断似乎出现了偏差。我的出厂时间为…… -fontSize=default -right;
 女人:你不是杜丽娘！ -fontSize=default;
 :我只能从模糊的视线里窥见这个装修奇怪的房间里，穿着前卫，身体覆盖着机械的女人跪在地上绝望地嘶吼着。 -fontSize=default;
-另外一个，被打扮成“杜丽娘”的机器人着蹲在地上，试图伸手扶起她。 -fontSize=default;
+:另外一个，被打扮成“杜丽娘”的机器人着蹲在地上，试图伸手扶起她。 -fontSize=default;
 :可是每一次，当“杜丽娘”将她硅胶材质的右手伸向那个无助的女人的时候，总会被女人决绝地闪开。 -fontSize=default;
 :两人不知道重复了多少次这个动作。 -fontSize=default;
 :终于，在机器人不知道第几次在不知疲倦地重复着自己伸手的动作的时候，疲惫又绝望的女人没有躲开来，而是任由机器人将那双冰冷的手搭在了她的肩上。 -fontSize=default;
@@ -83,7 +83,7 @@ changeFigure:万用立绘/LiuMengmei.PNG -left -transform={"alpha":1,"position":
 :——我居然能够侵入未来人的记忆了。那看来到以后学理科真的会比当什么巫祝有出息得多啊。 -fontSize=default;
 :记忆空间随着时间的流逝扭曲了起来，愈发不稳定。忽然想在离开这里之前看一看那封信上的内容。于是我便试着走近去看一眼。 -fontSize=default;
 changeBg: -next;
-: -notend -fontSize=default;
+: -notend -fontSize=default -next;
 intro:临川希望小学1988级（2）班 柳梦梅小朋友 收|小梅，不知道你最近还好吗？姐姐最近有一件很开心的事想要和你分享——前几天我博士毕业啦！|姐姐很想你，所以迫不及待地，想要和你分享这份喜悦，但可惜只有暑假的时候才能回来看你。|学校的课题组送了每一位同学一份毕业礼物，是一本诗集，我想它可能能够给予你和我更多的力量，所以我也想让你看看它！你应该也随着信件收到它了吧？|我把最喜欢那首诗抄在了下面。希望，我可以像是下面的这首诗所说的一样…… 永远伴你同行。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=typingEffect -delayTime=5000;
 intro:「我永远在沙岸上行走，」|「在沙土和泡沫的中间，」|「高潮会抹去我的脚印，」|「风也会把泡沫吹走。」|「但是海洋和沙岸」|「却将永远存在。」||你最爱的姐姐 杜丽娘 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=typingEffect -delayTime=5000;
 bgm:none;

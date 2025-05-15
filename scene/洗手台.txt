@@ -1,4 +1,4 @@
-changeBg:cornerB.jpg;
+changeBg:cornerB.jpg -next;
 :我们到了洗手台一侧。这里本是留给学生吃完饭自行清洗餐具的地方，但是真的会帮忙清洗餐具的学生并不多。 -fontSize=default;
 :面前的窗户只剩了个框子，玻璃碎片似乎被人特意清扫过，被草草地堆在了离窗户有一段距离的地方。 -fontSize=default;
 杜阑音:小心！别踩到玻璃渣了。 -fontSize=default;

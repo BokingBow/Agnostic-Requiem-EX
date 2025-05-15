@@ -1,11 +1,11 @@
-changeBg:cafe.png;
+changeBg:cafe.png -next;
 :我和这个陌生的女性不熟，出于安全起见还是先拒绝了她。 -fontSize=default;
 :即使她给出的条件听起来真的很好。 -fontSize=default;
-changeFigure:杜阑音/DLY-NORMAL.png;
+changeFigure:杜阑音/DLY-NORMAL.png -next;
 杜阑音:好吧……那，祝你未来顺顺利利哦。 -fontSize=default;
-changeFigure:none;
+changeFigure:none -next;
 :我离开了Azalea烘焙坊。迎面而来的南方陌生城市的风，还是带着一些潮湿与黏腻在的。覆在我脸上的水汽蒸得我难受。 -fontSize=default;
-changeBg:none;
+changeBg:none -next;
 :后来，我找到一份电子商务客服的工作，但同事们似乎不太喜欢我。 -fontSize=default;
 :因为我是无家所依之人，任人欺凌却无人撑腰。同时，公司里对尾火氏族有所耳闻的人看到我的疤痕，也推测出了我就是那个试图召唤怨灵的叛徒。 -fontSize=default;
 :每天都活得昏昏沉沉的，在没有人能够排忧解难的日子里，我活得像是一具行尸走肉。 -fontSize=default;

@@ -87,7 +87,7 @@ changeFigure:尚晨月/SCY-SERIOUS.png -left -next;
 changeFigure: -right -next;
 changeFigure: -left -next;
 副校长&母亲&教导主任:你！ -fontSize=default;
-changeFigure:万用立绘/SBLD.PNG;
+changeFigure:万用立绘/SBLD.PNG -next;
 :那个像一尊石佛似的站在一旁，沉默的教导主任叹了一口气，皱皱眉头，走到了母亲的身边，终于张开了嘴。 -fontSize=default;
 教导主任:██家长，是这样的···如果在我们这边被开除的话，要报备太学和行省教育司，对孩子以后个人档案也有影响，不好找工作，要不您看看··· -fontSize=default;
 到时候咱们自己去学籍办主动先把手续给办了？主动退学……这样名声还好听一点。 -fontSize=default;

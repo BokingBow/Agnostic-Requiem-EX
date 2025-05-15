@@ -1,4 +1,4 @@
-changeBg:itisnotadream.jpg;
+changeBg:itisnotadream.jpg -next;
 bgm:石楠花の庭先.mp3;
 :…… -fontSize=default;
 setTextbox:on;
@@ -24,7 +24,7 @@ setTextbox:on;
 :那有着我朝思暮想的面貌的人，突然急促地嘶吼起来。 -fontSize=default;
 ？？？:快走——！ -fontSize=default;
 :面前的人撕心裂肺地朝我喊着，随着她的话语，眼前的画面像是猛地从我的周围抽走一般，融进了平面之中，从我的周围越推越远。 -fontSize=default;
-changeBg:none;
+changeBg:none -next;
 bgm:none;
 :最终所有的风景与那人似乎都坍缩在了一片虚无，或者说是超越了我的认知，因此无法探测与描述的物质之中。 -fontSize=default;
 :周围或许还是有什么东西的吧，但就像是耳朵无法捕捉到超声波一样，我只能把这一切当成荒芜。 -fontSize=default;

@@ -1,4 +1,4 @@
-changeBg:forest in morning.png;
+changeBg:forest in morning.png -next;
 :审讯过后。 -fontSize=default;
 changeFigure:万用立绘/DIE.PNG -right -next;
 父亲:██。 -fontSize=default -right;
@@ -8,7 +8,7 @@ changeFigure:尚晨月/SCY-CRYING.png -left -next;
 我:（叹气）行。 -fontSize=default;
 :走在山路上，前面又爷爷跟Shaula领着，两人疏散了所有的看客。 -fontSize=default;
 父亲:……你不想说点什么吗？ -fontSize=default;
-changeFigure: -right;
-changeFigure: -left;
+changeFigure: -right -next;
+changeFigure: -left -next;
 :…… -fontSize=default;
 choose:我们之间没什么好说的。:没什么好说的.txt|妈妈这几年生活得很不容易。:妈妈这几年生活得很不容易。.txt;
