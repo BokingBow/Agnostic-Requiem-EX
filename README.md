@@ -1,2 +1,2 @@
 # Agnostic Requiem EX scene folder  
-By BokingBow
+Edited by BokingBow
