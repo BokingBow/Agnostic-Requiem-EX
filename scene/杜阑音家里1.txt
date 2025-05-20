@@ -131,5 +131,5 @@ changeFigure:杜阑音/DLY-QUESTIONING.png -next;
 changeFigure:none -next;
 changeBg:none -next;
 杜阑音:不要难过呀…… -fontSize=default;
-我在…… -fontSize=default;
+我在…… -notend -fontSize=default;
 changeScene:embrace.txt

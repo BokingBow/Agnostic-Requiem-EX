@@ -45,6 +45,7 @@ changeFigure: -left -next;
 :我从没见过这么漂亮的人。 -fontSize=default;
 changeFigure:杜阑音/DLY-SURPRISED.png -next;
 杜阑音:到了，咱先进去吧。 -fontSize=default;
-changeFigure:none;
-changeBg:none;
+changeFigure: -next;
+changeBg: -next;
+: -notend -fontSize=default;
 changeScene:杜阑音家里1.txt

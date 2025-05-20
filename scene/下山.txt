@@ -84,6 +84,7 @@ changeBg:mountain_fb.png -next;
 :尚晨月，坚持住。 -fontSize=default;
 :下了山，一切就都结束了。 -fontSize=default;
 changeBg:village_å¯æ¬.png -next;
+: -notend -fontSize=default;
 :后来，我跑去山脚下的银行取出了一点钱，当作路费，找辆车，先进省城再说。 -fontSize=default;
 changeBg:none -next;
 :我还是忍不住了，在进省城的大巴上忍不住哭了起来，哭了一路，脑子都给被眼泪糊蒙了。 -fontSize=default;

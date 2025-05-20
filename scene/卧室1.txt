@@ -95,4 +95,5 @@ changeFigure: -left -next;
 :那场屠杀，说是为了要威慑怀有谋反之心的异族，但居然几乎把这个种族给屠杀殆尽了。幸存者的数量据说只有个位数。 -fontSize=default;
 :杜阑音……应该就是当年逃出来的某位幸存者的后代。 -fontSize=default;
 :我在暖和柔软的被窝里渐渐睡去。 -fontSize=default;
+setTextbox:hide;
 changeScene:Hernani.txt

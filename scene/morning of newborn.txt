@@ -1,5 +1,6 @@
-changeBg:woshizaoshang.png -next;
-:欸？ -fontSize=default;
+changeBg:woshizaoshang.png;
+:欸？ -notend -fontSize=default;
+setTextbox:on;
 :天是不是亮起来了……? -fontSize=default;
 :刚睁开眼人还有些迷迷糊糊的看不清楚，温柔的晨曦穿过玻璃窗被随意地洒在了床的一角。 -fontSize=default;
 :阑音姐呢…… -fontSize=default;

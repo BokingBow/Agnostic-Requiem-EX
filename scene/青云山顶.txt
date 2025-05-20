@@ -8,7 +8,7 @@ changeFigure:万用立绘/Sargas.png -next;
 :眼前这个苍老严厉的男性有着一双因为色素减淡而显得灰蒙蒙的双眼，像是古老幽深的泉水，更像是那尊尾火娘娘的石像，似乎从不会对任何人的悲苦与嚎哭做出任何的反应。 -fontSize=default;
 觋公:还有，看看你的穿着打扮。 -fontSize=default;
 哪有女人穿得这么乱七八糟的，领子都不弄整齐。 -fontSize=default;
-哼，不检点。 -fontSize=default;
+哼，不检点。 -fontSize=default -right;
 changeFigure:none -next;
 :又是一阵夹杂着愤怒与羞耻的情绪涌上心头。 -fontSize=default;
 :在这个被山峦与树木所隔绝的，由神明所统御的世界里，我需要为这个称呼而感到惭愧，去反思，去改正错误，就是因为我少扣了一个扣子。 -fontSize=default;

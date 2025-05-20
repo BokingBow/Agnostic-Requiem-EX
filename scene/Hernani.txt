@@ -1,5 +1,6 @@
-杜阑音:埃尔纳尼…… -fontSize=default;
-埃尔纳尼…… -fontSize=default;
+杜阑音:埃尔纳尼…… -notend -fontSize=default;
+setTextbox:on;
+埃尔纳尼…… -fontSize=default -left;
 不要丢掉我…… -fontSize=default;
 我们……一起逃走吧…… -fontSize=default;
 不要再管他们了！！！ -fontSize=large;
@@ -14,4 +15,5 @@
 :是杜阑音的故人吗？ -fontSize=default;
 :听起来，阑音姐以前在国外呆过呢。 -fontSize=default;
 :算了，不去管这些了。 -fontSize=default;
+setTextbox:hide;
 changeScene:morning of newborn.txt
