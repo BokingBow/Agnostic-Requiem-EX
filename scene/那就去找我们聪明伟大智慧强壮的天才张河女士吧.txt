@@ -81,5 +81,6 @@ changeFigure:none -right -next;
 changeFigure:none -left -next;
 :这家伙似乎突然一下子就被点着了，难道……她和那位张大师不会真有点什么吧。 -fontSize=default;
 :毕竟一开始，她听到这个名字的时候，反应就不太对。 -fontSize=default;
+changeBg:none -next;
 :算了，别人的私事我还是不要去刨根问底地去问了。等她想说了，自然会告诉我的。 -fontSize=default;
 changeScene:我们找到了我们伟大聪慧强壮的张河女士但是她现在是外卖小妹.txt

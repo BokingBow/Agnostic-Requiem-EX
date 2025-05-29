@@ -50,6 +50,6 @@ changeFigure:杜阑音/DLY-HAPPY.png -right -next;
 杜阑音:那就……好好干吧，以后。 -fontSize=default;
 今天可以算是你工作的第一天了，好好准备一会，我们就出发吧！ -fontSize=default;
 我:嗯嗯！ -fontSize=default;
-changeFigure:none -right;
-changeFigure: -left;
+changeFigure: -right -next;
+changeFigure: -left -next;
 changeScene:street in town.txt
